@@ -1,0 +1,16 @@
+Technology: Artificial Intelligence (AI)
+Definition: AI helps machines perform tasks that need human intelligence.
+Examples: Virtual assistants and expert systems
+
+Technology: Machine Learning (ML)
+Definition: ML helps computers learn from data and make predictions.
+Examples: Spam email detection and product recommendations
+
+Technology: Deep Learning (DL)
+Definition: DL uses neural networks to learn complex patterns from data.
+Examples: Image recognition and speech recognition
+
+Relationship between AI, ML, and DL:
+AI is the broader field of intelligent machines.
+ML is a part of AI that learns from data.
+DL is a part of ML that uses deep neural networks.
